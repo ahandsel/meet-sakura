@@ -2,17 +2,23 @@
 // ---------------------------------------/
 
 $container-width: 980px !default;
-$grid-gutter:     10px !default;
+$grid-gutter: 10px !default;
 
 // Colors
-$white:             #fcfaf6;
-$black:             #333;
+$white: #fcfaf6;
+$black: #333;
+$accent: #a91045;
+$button: darken($white, 25%);
+// $button: #FD8E58;
+$accent-dark: darken($accent, 5%);
+$accent-light: lighten($accent, 10%);
 
 // Styles
-$text_color:        $black;
+$text_color: $black;
 
 // Font stack
-$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
+$body-font: Helvetica, arial, nimbussansl, liberationsans, freesans, clean,
+  sans-serif, "Segoe UI Emoji", "Segoe UI Symbol" !default;
 
 // The base body size
 $body-font-size: 13px !default;
