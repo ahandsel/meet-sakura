@@ -1,66 +1,65 @@
-# Resume template
+# Meet Sakura 🌸
 
-*A simple Jekyll + GitHub Pages powered resume template.*
+## Outline <!-- omit in toc -->
+* [Summary](#summary)
+* [Contact Info](#contact-info)
+* [EXPERIENCE](#experience)
+  * [POTAMELT --- Waiter 🥪](#potamelt-----waiter-)
+  * [MURASAKI --- Bar Staff 🍻](#murasaki-----bar-staff-)
+  * [Baskin-Robbins --- Ice Cream Server 🍦](#baskin-robbins-----ice-cream-server-)
+* [SKILLS](#skills)
+* [EDUCATION](#education)
+  * [Speakeasy School of English --- Business English](#speakeasy-school-of-english-----business-english)
+  * [Tokyo Mode Gakuen | College of Fashion & Beautician --- Makeup, Nails, Hair](#tokyo-mode-gakuen--college-of-fashion--beautician-----makeup-nails-hair)
 
-![img](images/screenshot.png)
+## Summary
+Customer-focused server with 6+ years of experience serving guests at cafes, pubs, and ice cream shops. A hardworking, energetic worker with a desire to make guests feel welcome.
 
-## Docs
+## Contact Info
 
-### Running locally
+<details>
+  <summary>Contact Me</summary>
 
-To test locally, run the following in your terminal:
+  📞 Cell: +4407934531650  
+  📫 Mail: <saachorin.0415@icloud.com>  
 
-1. Clone repo locally
-1. `bundle install`
-1. `bundle exec jekyll serve`
-1. Open your browser to `localhost:4000`
+</details>
 
-### Running locally with Docker
+## EXPERIENCE
 
-To test locally with docker, run the following in your terminal after installing docker into your system:
+### POTAMELT --- Waiter 🥪
+Tokyo (Japan), August 2020 - July 2022
 
-1. `docker image build -t resume-template .`
-1. `docker run --rm --name resume-template -v "$PWD":/home/app --network host resume-template`
+* Served numerous customers with care & speed, even during peak lunch hours.
+* Enhanced the cafe experiences with recipe suggestions and improvements according to the latest trends and customer requests.
+* Maintained excellent customer satisfaction by delivering attentive, helpful, and friendly service.
 
-### Customizing
+### MURASAKI --- Bar Staff 🍻
+Tokyo (Japan), April 2018 - April 2019
 
-First you'll want to fork the repo to your own account. Then clone it locally and customize, or use the GitHub web editor to customize.
+* Built and maintained courteous & effective working relationships.
+* Achieved service time and quality targets.
+* Demonstrated outstanding product knowledge to achieve high customer satisfaction levels.
 
-#### Options/configuration
+### Baskin-Robbins --- Ice Cream Server 🍦
+Fukushima (Japan), May 2016 - March 2018
 
-Most of the basic customization will take place in the `/_config.yml` file. Here is a list of customizations available via `/_config.yml`:
+* Managed complaints with calm, clear communication and problem-solving.
+* Engaged with customers to better understand needs & deliver excellent service.
+* Enhanced working relationships by participating in team-building activities.
 
-[...write these out...]
+## SKILLS
 
-#### Editing content
+* Fluent Japanese
+* Cleaning & Dishwashing
+* Cafe Service & Waitressing
+* Drinks Preparation
+* Food Preparation & Hygiene
 
-Most of the content configuration will take place in the `/_layouts/resume.html` file. Simply edit the markup there accordingly
+## EDUCATION
 
-### Publishing to GitHub Pages for free
+### Speakeasy School of English --- Business English
+London (UK), July 2022 - PRESENT
 
-[GitHub Pages](https://pages.github.com/) will host this for free with your GitHub account. Just make sure you're using a `gh-pages` branch, and the site will automatically be available at `yourusername.github.io/resume-template` (you can rename the repo to resume for your own use if you want it to be available at `yourusername.github.io/resume`). You can also add a CNAME if you want it to be available at a custom domain...
-
-### Configuring with your own domain name
-
-To setup your GH Pages site with a custom domain, [follow the instructions](https://help.github.com/articles/setting-up-a-custom-domain-with-github-pages/) on the GitHub Help site for that topic.
-
-### Themes
-
-Right now resume-template only has one theme. More are coming :soon: though. :heart:
-
-## Roadmap
-
-A feature roadmap is [available here](https://github.com/jglovier/resume-template/projects/1). If you features suggestions, please [open a new issue](https://github.com/jglovier/resume-template/issues/new).
-
-## Contributing
-
-If you spot a bug, or want to improve the code, or even make the dummy content better, you can do the following:
-
-1. [Open an issue](https://github.com/jglovier/resume-template/issues/new) describing the bug or feature idea
-2. Fork the project, make changes, and submit a pull request
-
-## License
-
-The code and styles are licensed under the MIT license. [See project license.](LICENSE) Obviously you should not use the content of this demo repo in your own resume. :wink:
-
-Disclaimer: Use of Homer J. Simpson image and name used under [Fair Use](https://en.wikipedia.org/wiki/Fair_use) for educational purposes. Project license does not apply to use of this material.
+### Tokyo Mode Gakuen | College of Fashion & Beautician --- Makeup, Nails, Hair
+Tokyo (Japan), April 2018 - March 2020
